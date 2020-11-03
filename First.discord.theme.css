@@ -20,4 +20,6 @@
     --accent-color: red;
     /* Фотка заднего фона (default: https://i.imgur.com/6rlzsb8.png) */
     --background-url: url(https://i.imgur.com/6rlzsb8.png)
+	/* Задний фон серверов (Default: black) */
+    --background-color: black;
 }
