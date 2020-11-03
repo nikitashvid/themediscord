@@ -1,0 +1,23 @@
+/**
+* @name First discord theme
+* @author Никита Швид#7574
+* @version 1.0
+* @description Тема менятся в CSS файле
+* @authorId 358130447563358208
+*/
+
+@import url("https://nikitashvid.github.io/themediscord/Import.css");
+
+/* Customize */
+:root {
+    /* Цвет верхнего поля и вообщем-то фона(Самого дальнего(Упоминания, эмодзи))(Default: rgb(85, 8, 8)) */
+    --color1: rgb(85, 8, 8);
+    /* Бак гроунд ников, поле ввода, короче смена дефолт цвета(Серого) (Default: rgb(56, 0, 0)) */
+    --color2: rgb(56, 0, 0);
+    /* Ели понял, короче черный слой на фоне(Например, когда кто-кто играет в друзьях) (Default: darkred) */
+    --color10: darkred;
+    /* Цвет "Обводки" (Default: red) */
+    --accent-color: red;
+    /* Фотка заднего фона (default: https://i.imgur.com/6rlzsb8.png) */
+    --background-url: url(https://i.imgur.com/6rlzsb8.png)
+}
